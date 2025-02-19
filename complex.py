@@ -3,3 +3,4 @@ void main()
 {
         int a=5,b=10;
         printf("%d,a);
+        printf("%d",a+b);
