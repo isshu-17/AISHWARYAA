@@ -5,3 +5,4 @@ void main()
         printf("%d,a);
         printf("%d",a+b);
         printf("%d",a-b);
+        printf("%d",a*b);
