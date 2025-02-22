@@ -4,4 +4,6 @@ void main()
 int num;
 start:
 printf("enter a number")
-scanf("%d",&num);	
+scanf("%d",&num);
+printf("enter a number")
+scanf("%d",&num);
