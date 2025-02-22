@@ -7,4 +7,6 @@ void main()
    if(vowel=='a'/'e'/'i'/'o'/'u'/)
    printf("the character is:%c",vowel);
    else if(vowel=='A'/'E'/'I'/'O'/'U')
-   printf("the character is:%C",vowel):	   
+   printf("the character is:%C",vowel):
+   else
+   printf("the character is not a vowel"):  	
