@@ -19,3 +19,9 @@ printf("Enter an integer: ");
       printf("0");
       original /= 10;
     }
+     } else {
+    printf("Reversed number = %d", reverse);
+  }
+
+  return 0;
+} 
