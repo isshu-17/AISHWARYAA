@@ -12,3 +12,10 @@ printf("Enter an integer: ");
     reverse = reverse * 10 + remainder;
     n /= 10;
   }
+ if (original % 10 == 0) {
+    printf("Reversed number = %d", reverse);
+
+    while (original % 10 == 0) {
+      printf("0");
+      original /= 10;
+    }
