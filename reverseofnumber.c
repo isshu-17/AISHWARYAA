@@ -24,4 +24,4 @@ printf("Enter an integer: ");
   }
 
   return 0;
-} 
+print("zero")
