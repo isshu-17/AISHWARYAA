@@ -9,4 +9,4 @@ void evenorodd()
 }
 voidnmain()
 {even or odd();}
-		
+   printf("enter statement");		
