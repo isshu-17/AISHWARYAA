@@ -9,4 +9,5 @@ void evenorodd()
 }
 voidnmain()
 {even or odd();}
+   ptintf("enter statement");
 		
