@@ -11,3 +11,4 @@ int main(){
 	   printf("the factorial of the given number%d",fact);
       }
 }
+    return0;
