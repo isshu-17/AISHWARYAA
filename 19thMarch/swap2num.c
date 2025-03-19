@@ -14,4 +14,4 @@ long int multiplyNumbers(int n) {
     else
         return 1;
 }
-
+  return0;
